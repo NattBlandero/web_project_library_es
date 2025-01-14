@@ -269,7 +269,7 @@
 
 .person_name_tarter {
   top: 79px;
-  left: 159;
+  left: 159px;
   /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
 }
 
@@ -294,6 +294,3 @@
   font-size: 18px;
   margin: 0;
 }
-/* text-align: center;
-  font-size: 14px;
-  margin: 0; */
