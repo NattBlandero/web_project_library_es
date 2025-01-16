@@ -308,11 +308,10 @@
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
+  flex-wrap: wrap;
+  gap: 40px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  gap: 40px;
-  flex-wrap: wrap;
 }
 
 .step {
