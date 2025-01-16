@@ -360,8 +360,8 @@
 }
 
 .footer__logo {
-  max-width: 58px;
-  max-height: 80px;
+  width: 58px;
+  height: 80px;
 }
 
 .footer__column-heading {
